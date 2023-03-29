@@ -1,0 +1,126 @@
+
+@font-face {
+    font-family: 'Trebuc';
+    src: url(./fonts/trebuc.ttf);
+}
+@font-face {
+    font-family: summer;
+    src: url(./fuentes/Summer-PersonalUse.ttf);
+}
+@font-face {
+    font-family: Floane-Bold;
+    src: url(./fuentes/Floane-Bold.otf);
+}
+
+.qs{
+    margin-bottom: 2rem !important;
+}
+
+@font-face {
+    font-family: fontastique;
+    src: url(./fuentes/fontastique.ttf);
+}
+
+.men{
+    background-color: #23491C !important;
+}
+
+.nav-item{
+    font-family: "Floane-Bold";
+    font-size: 24px;
+    cursor: pointer;
+    margin-left: 3em;
+    display: flex;
+   justify-content:  center;
+
+}
+
+#Piecito, #Piecito1, #Piecito{
+    background-color: #23491C;
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-item :hover{   
+    color: #cfe6c9;
+    transition: 0.5s;
+}
+
+.Texto1{
+    font-family: fontastique;
+    padding: 2rem;
+    text-align: justify;
+}
+
+.borde{
+    border: solid;
+
+}
+
+.proble{
+    font-family: Floane-Bold;  
+}
+.solu{
+    font-family: Floane-Bold;  
+}
+.qnsomos{
+    font-family: Floane-Bold;  
+}
+.aven{
+    font-family: Floane-Bold;  
+}
+.Texto2{
+    font-family: fontastique;
+}
+
+.img1{
+ background: #ADD3A2;
+}
+.sec1{
+    background-color: #fff;
+   
+}
+
+.sec2{
+    background: #ADD3A2;
+}
+.sec3{
+    background-color: #fff;  
+}
+.sec4{
+    background: #ADD3A2;
+}
+.sec5{
+    background-color: #fff;  
+}
+.sec6{
+    background: #ADD3A2;
+}
+
+ .Texto3{
+    font-family: fontastique;
+    text-align: justify;
+}
+
+
+.proy1{
+    width: 170px;
+    height: 170px;
+} 
+
+.ta{
+    width: 280px;
+}
+
+.botonn{
+    font-family: Floane-Bold;
+    background-color: #DCE061;
+    border: none;
+}
+
+.bt :hover{
+    background-color:#ADD3A2;
+    transition: 0.5s;
+}
